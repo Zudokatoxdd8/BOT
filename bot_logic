@@ -29,4 +29,4 @@ async def password(ctx):
 async def boot(ctx):
     await ctx.send("yes bot is cool")
 
-bot.run("MTI3NTk3ODIzMzcyODMzNTkwMw.GgAy-b.yr5NZf9agme7utDNNCavY112VZ4zw0038iZF2Q")
+bot.run("TOKEN")
